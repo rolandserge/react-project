@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projetweb/static/css/main.22746fa6.css",
+    "main.js": "/projetweb/static/js/main.e354f6b1.js",
+    "static/js/787.07d918c0.chunk.js": "/projetweb/static/js/787.07d918c0.chunk.js",
+    "static/media/image.jpg": "/projetweb/static/media/image.0388c301930ade718027.jpg",
+    "static/media/toile.jpg": "/projetweb/static/media/toile.d6ce7658d97541c21245.jpg",
+    "static/media/original.png": "/projetweb/static/media/original.961c92cf527eb823c883.png",
+    "static/media/card.png": "/projetweb/static/media/card.c402f7e700c6ebc1cf68.png",
+    "static/media/commande.png": "/projetweb/static/media/commande.d70255dcb30e7049c2dc.png",
+    "static/media/vider.png": "/projetweb/static/media/vider.01a38b16afbd1571609a.png",
+    "static/media/supprimer.png": "/projetweb/static/media/supprimer.60cc0c56a8f367a8f1ba.png",
+    "static/media/livraisons.png": "/projetweb/static/media/livraisons.0459258e13e87e483ddd.png",
+    "index.html": "/projetweb/index.html",
+    "main.22746fa6.css.map": "/projetweb/static/css/main.22746fa6.css.map",
+    "main.e354f6b1.js.map": "/projetweb/static/js/main.e354f6b1.js.map",
+    "787.07d918c0.chunk.js.map": "/projetweb/static/js/787.07d918c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22746fa6.css",
+    "static/js/main.e354f6b1.js"
+  ]
+}
